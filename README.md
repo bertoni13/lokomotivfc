@@ -1,2 +1,2 @@
-# http://bertoni13/lokomotivfc.github.io
+# http://lokomotivfc.github.io
 Time de futebol de Pirituba
